@@ -28,7 +28,6 @@ The solution was submitted to Rosalind and accepted.
 
 Personalized dataset result:
 
-```text
 233 225 191 219
 
 ## Documentation
