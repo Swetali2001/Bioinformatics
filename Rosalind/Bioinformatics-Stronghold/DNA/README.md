@@ -30,3 +30,11 @@ Personalized dataset result:
 
 ```text
 233 225 191 219
+
+## Documentation
+
+A detailed technical report describing the problem, algorithm,
+implementation, complexity analysis, and result is available below.
+
+[Read the Technical Solution Report](Counting_DNA Nucleotides_Report.pdf)
+
