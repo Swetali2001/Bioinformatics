@@ -78,4 +78,4 @@ A detailed technical report describing the problem, algorithm,
 Python implementation, complexity analysis, and verification
 is available below.
 
-[Read the Technical Solution Report](Report_Complementing_a_Strand_of_DNA.pdf)
+[Read the Technical Solution Report](Report_Complementing_a_Strand_of_DNA.pdfpdf)
